@@ -2,7 +2,7 @@ from: https://newline.theironyard.com/cohorts/15/courses/9/activities/170
 
 # Activity: ACME Design DOM Manipulation - Pair Programming
 In this activity, use DOM manipulation to dynamically add content to the page to match the given mockup.
-[image]
+![image](https://github.com/JamieBort/ACMEDesignDOMManipulation/blob/master/img/5ab2dc81-layout.png)
 Complete the following three tasks:
 ## 1. Add Content to the `hero` Section  
 The `hero` section is missing two lines of HTML. Use JavaScript to create the two missing HTML elements and complete the section with an id of `hero`. Once completed, the section should look like this:
