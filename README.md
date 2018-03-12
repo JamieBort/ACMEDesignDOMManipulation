@@ -59,6 +59,7 @@ Visible
 </nav>
 ```
 The following `.gif` demonstrates the desired behavior
+
 ![Screen Capture](https://thumbs.gfycat.com/CarefulThornyIndianabat-size_restricted.gif)
 ## Getting Started
 [Source File]().
