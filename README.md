@@ -2,6 +2,7 @@ from: https://newline.theironyard.com/cohorts/15/courses/9/activities/170
 
 # Activity: ACME Design DOM Manipulation - Pair Programming
 In this activity, use DOM manipulation to dynamically add content to the page to match the given mockup.
+
 ![image](https://github.com/JamieBort/ACMEDesignDOMManipulation/blob/master/img/5ab2dc81-layout.png)
 
 Complete the following three tasks:
