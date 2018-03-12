@@ -59,7 +59,7 @@ Visible
 </nav>
 ```
 The following `.gif` demonstrates the desired behavior
-![Screen Capture](https://gfycat.com/CarefulThornyIndianabat)
+![Screen Capture](https://gfycat.com/CarefulThornyIndianabat.gif)
 ## Getting Started
 [Source File]().
 1. Download the `.zip` file and unpack the contents.
