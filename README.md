@@ -3,6 +3,7 @@ from: https://newline.theironyard.com/cohorts/15/courses/9/activities/170
 # Activity: ACME Design DOM Manipulation - Pair Programming
 In this activity, use DOM manipulation to dynamically add content to the page to match the given mockup.
 ![image](https://github.com/JamieBort/ACMEDesignDOMManipulation/blob/master/img/5ab2dc81-layout.png)
+
 Complete the following three tasks:
 ## 1. Add Content to the `hero` Section  
 The `hero` section is missing two lines of HTML. Use JavaScript to create the two missing HTML elements and complete the section with an id of `hero`. Once completed, the section should look like this:
@@ -70,5 +71,5 @@ The following `.gif` demonstrates the desired behavior
 ## Solutions Folder  
 This `.zip` file includes a solutions folder with JavaScript for all three tasks of this activity.
 
-Your role as a student
+## Your role as a student
 Articulate their ideas as best you can. Try to facilitate effective collaboration with your paired student. Be willing to debate strategies for how best to approach your challenge, but don’t allow endless debate to keep you from making progress. Keep your eye on the clock and try to work yourself through the challenge at a reasonable pace. You and your partner should share the responsibility for authoring ideas and code. Finish your challenge and make certain that you call talk someone through the logic and strategies implemented by your group.
